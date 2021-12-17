@@ -492,7 +492,7 @@ ${menuVC}
 ≡  *HINATA|ʙᴏᴛ*  GRUPOS
 
 ▢ ${msg.gp} 1
-https://chat.whatsapp.com/G5sXrkhJ0pb0Tu8nhWLaFK
+https://chat.whatsapp.com/JuMmY4u4QZDDohzS4Jr1yL
 
 ▢ ${msg.gp} 2
 https://chat.whatsapp.com/CDUqNRu5Kh5KY5uqQI0BKE
