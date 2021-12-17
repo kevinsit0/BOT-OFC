@@ -454,7 +454,7 @@ switch (command) {
  
  case 'menu': 
  case 'help':
-    capt = `────  *HINATA|ʙᴏᴛ*  ────
+    capt = `────  *𝐻𝐼𝑁𝐴𝑇𝐴|ʙᴏᴛ*  ────
     
 ${msg.hi} *${pushname}* ${ucapanWaktu}
     
@@ -467,12 +467,12 @@ ${msg.hi} *${pushname}* ${ucapanWaktu}
 ${readMore}
 ${menu(prefix)} 
 `
-    Fg.send3ButtonLoc(from, thumbfg, capt, `▢ *HINATA|ʙᴏᴛ*\n▢ *Total Hits* : ${isTotalcmd}\n▢ *Usuarios* : ${User.length}\n▢ *Runtime* : ${kyun(process.uptime())}\n\n${msg.foll}`, `⦙☰ Menu Vc`, `${prefix}menuvc`, '✆ Owner', `${prefix}owner`, '⏍ Info', `${prefix}info`)
+    Fg.send3ButtonLoc(from, thumbfg, capt, `▢ *𝐻𝐼𝑁𝐴𝑇𝐴|ʙᴏᴛ*\n▢ *Total Hits* : ${isTotalcmd}\n▢ *Usuarios* : ${User.length}\n▢ *Runtime* : ${kyun(process.uptime())}\n\n${msg.foll}`, `⦙☰ Menu Vc`, `${prefix}menuvc`, '✆ Owner', `${prefix}owner`, '⏍ Info', `${prefix}info`)
     break
     
     case 'menuvc': 
  case 'helpvc':
-    capt = `────  *HINATA|ʙᴏᴛ*  ────
+    capt = `────  *𝐻𝐼𝑁𝐴𝑇𝐴|ʙᴏᴛ*  ────
     
 ${msg.hi} *${pushname}* ${ucapanWaktu}
     
@@ -482,14 +482,14 @@ ${readMore}
 *VOICE COMMAND* ${msg.vnCmd(prefix)} 
 ${menuVC} 
 `
-    Fg.send3ButtonLoc(from, thumbfg, capt, `▢ *HINATA|ʙᴏᴛ*\n▢ *Total Hits* : ${isTotalcmd}\n▢ *Usuarios* : ${User.length}\n▢ *Runtime* : ${kyun(process.uptime())}\n\n${msg.foll}`, '✆ Owner', `${prefix}owner`, '⏍ Info', `${prefix}info`, `⌬ ${msg.gp}s`, `${prefix}grupos`)
+    Fg.send3ButtonLoc(from, thumbfg, capt, `▢ *𝐻𝐼𝑁𝐴𝑇𝐴|ʙᴏᴛ*\n▢ *Total Hits* : ${isTotalcmd}\n▢ *Usuarios* : ${User.length}\n▢ *Runtime* : ${kyun(process.uptime())}\n\n${msg.foll}`, '✆ Owner', `${prefix}owner`, '⏍ Info', `${prefix}info`, `⌬ ${msg.gp}s`, `${prefix}grupos`)
     break 
     
     case 'grupos': 
     case 'groups': 
     case 'dylux': 
     gps = `
-≡  *HINATA|ʙᴏᴛ*  GRUPOS
+≡  *𝐻𝐼𝑁𝐴𝑇𝐴|ʙᴏᴛ*  GRUPOS
 
 ▢ ${msg.gp} 1
 https://chat.whatsapp.com/JuMmY4u4QZDDohzS4Jr1yL
