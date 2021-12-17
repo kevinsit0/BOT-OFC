@@ -462,7 +462,7 @@ ${msg.hi} *${pushname}* ${ucapanWaktu}
 ⎔ *Premium* : ${prem}
 
 ▢ ${msg.cretb}
-• https://youtu.be/F4lGWb1WXgM 
+• https://instagram.com/bot_hinata_ 
 
 ${readMore}
 ${menu(prefix)} 
@@ -500,8 +500,8 @@ https://chat.whatsapp.com/CDUqNRu5Kh5KY5uqQI0BKE
 ▢ ${msg.gp} 3
 https://chat.whatsapp.com/FSVDTytQxnTIPx8t8wBWeM
 
-▢ *YouTube*
-• https://www.youtube.com/fg98f
+▢ *Instagram*
+• https://instagram.com/bot_hinata_
 `
 m.reply(gps)
 break 
