@@ -544,11 +544,11 @@ case 'lang':
 case 'creator':
 case 'creador': 
 case 'developer':
-/*number = '5493885839638@s.whatsapp.net'
+/*number = '593960841123@s.whatsapp.net'
     capt = `▢ ${msg.num} : @${number.split('@')[0]}\n\n`
-    capt += '▢ Instagram : https://www.instagram.com/fg98._'
-    await Fg.fakeLink(from, capt, thumbfg, `${msg.click}`, 'https://www.instagram.com/fg98._', mek)*/
-   Fg.sendContact(from, '5493885839638', 'FG98', mek) 
+    capt += '▢ Instagram : https://instagram.com/bot_hinata_'
+    await Fg.fakeLink(from, capt, thumbfg, `${msg.click}`, 'https://instagram.com/bot_hinata_', mek)*/
+   Fg.sendContact(from, '593960841123', '🐲Kevin💎', mek) 
     break
     
     case 'info':
@@ -579,13 +579,13 @@ case 'developer':
 ▢ Versi Wa : ${Fg.user.phone.wa_version}
 
 *≡ OWNER*
-▢ Instagram : https://www.instagram.com/fg98._
-▢ WhatsApp : wa.me/59172945992 
+▢ Instagram : https://instagram.com/bot_hinata_
+▢ WhatsApp : wa.me/593960841123
 
 *≡ SCRIPT*
 ▢ Git : ${package.homepage} 
 ` 
-Fg.send2Button(from, teks, '*_© FG98 DyLux_*', `ꨄ︎ Apoyar`, `${prefix}donate`, `⌬ ${msg.gp}s`, `${prefix}grupos`)
+Fg.send2Button(from, teks, '*_© 𝐻𝐼𝑁𝐴𝑇𝐴|ʙᴏᴛ•kevin_*', `ꨄ︎ Apoyar`, `${prefix}donate`, `⌬ ${msg.gp}s`, `${prefix}grupos`)
    break
    
     case 'nameninja':
@@ -2206,7 +2206,7 @@ switch(VoiceCommand) {
   
  case 'menu': 
  case 'help':
-    capt = `────  *DyLux  ┃ ᴮᴼᵀ*  ────
+    capt = `────  *𝐻𝐼𝑁𝐴𝑇𝐴|ʙᴏᴛ*  ────
     
 ${msg.hi} *${pushname}* ${ucapanWaktu}
     
@@ -2214,7 +2214,7 @@ ${msg.hi} *${pushname}* ${ucapanWaktu}
 ⎔ *Premium* : ${prem}
 
 ▢ ${msg.cretb}
-• https://youtu.be/F4lGWb1WXgM 
+• https://instagram.com/bot_hinata_
 
 ${readMore}
 ${menu(prefix)} 
