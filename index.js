@@ -166,7 +166,7 @@ let isTotalcmd = st.totalcommand;
 let hujanapi = st.hujanApi;
 let linkIg = st.linkIg;
 // -- thumbnail
-let thumbfg = fs.readFileSync('./temp/fg.jpg'); 
+let thumbfg = fs.readFileSync('./temp/kevin.jpg'); 
 
 let fakethumb = fs.readFileSync('./temp/fake.jpg'); 
 
