@@ -1939,7 +1939,7 @@ case 'riddle':
     case 'update':
     case 'actualizar':
 if (!isOwner && !isBot) return m.reply(msg.owner)
-gfg = `git remote set-url origin https://github.com/kevinsit0/BOT-OF-bot.git && git pull `
+gfg = `git remote set-url origin https://github.com/kevinsit0/BOT-OF.git && git pull `
 exec(`${gfg}`, (err, stdout) => {
 if (err) return m.reply(err) 
 if (stdout) m.reply(`✅ ${msg.updatef} :\n\n${stdout}`)
