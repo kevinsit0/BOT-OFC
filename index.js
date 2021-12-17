@@ -495,10 +495,10 @@ ${menuVC}
 https://chat.whatsapp.com/JuMmY4u4QZDDohzS4Jr1yL
 
 ▢ ${msg.gp} 2
-https://chat.whatsapp.com/CDUqNRu5Kh5KY5uqQI0BKE
+https://chat.whatsapp.com/DqTOWGMVSQQ9l8cfh592pp
 
 ▢ ${msg.gp} 3
-https://chat.whatsapp.com/FSVDTytQxnTIPx8t8wBWeM
+https://chat.whatsapp.com/CeO6cqqjnkk1MG0wq0P39R
 
 ▢ *Instagram*
 • https://instagram.com/bot_hinata_
